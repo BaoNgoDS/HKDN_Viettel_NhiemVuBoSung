@@ -12,14 +12,6 @@ During this project, I implemented various tasks, including data collection, pre
    - Developing classification models: Multinomial Naive Bayes, Logistic Regression, and Random Forest.
 3. **Evaluation and Analysis**: Analyzing model performance to assess the effectiveness of sentiment classification and providing insights for strategic recommendations.
 
-## Files and Structure
-
-- `data_collection/`: Scripts and tools for web scraping customer feedback.
-- `data_preprocessing/`: Includes data cleaning and preprocessing workflows.
-- `feature_engineering/`: Scripts for TF-IDF and SMOTE application.
-- `models/`: Code for training classification models and evaluating performance.
-- `visualizations/`: Data visualization tools using Power BI for displaying analytical insights.
-
 ## Requirements
 
 - **Python 3.8+**
