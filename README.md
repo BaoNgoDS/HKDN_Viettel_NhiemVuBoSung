@@ -21,14 +21,6 @@ During this project, I implemented various tasks, including data collection, pre
   - `Imbalanced-learn` for SMOTE implementation
   - `Pandas`, `Numpy` for data manipulation
 
-## Usage
-
-1. Clone the repository.
-2. Run `data_collection/collect_reviews.py` to scrape Google Maps reviews.
-3. Execute the scripts in `data_preprocessing/` to prepare the data for analysis.
-4. Use `feature_engineering/tfidf_smote.py` for feature extraction.
-5. Train models with scripts in `models/`.
-6. View analytical results and visualizations in `visualizations/` with Power BI.
 
 ## Results and Recommendations
 
